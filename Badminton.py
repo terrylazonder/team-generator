@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-st.title("Padminton Team Generator")
+st.title("Badminton Team Generator")
 
 # ✅ Zorg ervoor dat session state correct is geïnitialiseerd
 if "players" not in st.session_state:
